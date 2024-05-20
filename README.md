@@ -11,5 +11,5 @@ It contains the following difficulty levels among which you can choose and play:
 
 Enjoy the game!!!
 ## Project by:
-Abhaya Shrestha
-ACE079BCT005
+Abhaya Shrestha   
+(ACE079BCT005)
